@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "57381764783",
+    "firebase_url": "https://flash-electronics-f8c7b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flash-electronics-f8c7b",
+    "storage_bucket": "flash-electronics-f8c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57381764783:android:82e045af0967af765a1e5a",
+        "android_client_info": {
+          "package_name": "com.flash.electronics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57381764783-q0j3r4emetit48pheglfi3uuqtjqbrb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flash.electronics",
+            "certificate_hash": "7afcaadcbc95d9288c8ca03b4fa44fc2272d19bd"
+          }
+        },
+        {
+          "client_id": "57381764783-m0oao6ejp1j3kgf6t46qspvkabo5jfrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYy0WBXllTj_fG4WVHbrGBvYMMzCCBSHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57381764783-m0oao6ejp1j3kgf6t46qspvkabo5jfrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
